@@ -1,2 +1,3 @@
-# boda-estefania-fabio
-The Wedding Weekend · Estefanía &amp; Fabio · Cartagena 2027
+# The Wedding Weekend · Estefanía & Fabio
+
+Sitio estático publicado con GitHub Pages. El contenido se edita en `js/data.js`.
